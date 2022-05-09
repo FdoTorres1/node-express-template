@@ -1,14 +1,6 @@
-# Gulam Node - Express template
+# Node - Express template
 
 This is a basic template for developing projects using ```NodeJS``` environment, `Express.js` framework and the `Sequelize` ORM.
-
-## Set up
-
-- Clone the repository
-- Install `yarn` if not intalled
-- Run `yarn install` to add install dependencies
-- Create local database for the app
-- Set up environment variables
 
 ## Dependencies
 
@@ -22,7 +14,17 @@ This is a basic template for developing projects using ```NodeJS``` environment,
 ## Development dependencies
 
 - Nodemon: Automatically restart app on changes
-- Prettier
+- Prettier: Code formater
+
+## Set up
+
+- Clone the repository
+- Install `yarn` if not installed
+- Run `yarn install` to add install dependencies
+- Create local database for the app
+- Set up environment variables
+
+
 
 ---
 _By Fernando Torres_
